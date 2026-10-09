@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+pydantic
+
+# LangChain y Google Gemini
+langchain
+langchain-community
+langchain-google-genai
+
+# RAG, Vector DB y Embeddings
+chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+pypdf
+
+# Búsqueda web de respaldo
+tavily-python
